@@ -4,4 +4,3 @@ $('.carousel').carousel(
 $('#exampleModal').modal(
 	backdrop: 'static'
 )
-
