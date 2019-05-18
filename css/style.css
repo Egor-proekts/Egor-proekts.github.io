@@ -35,6 +35,7 @@ nav{
 }
 
 .card-item{
+	border: none;
 	background: url(img/16.jpg) center center;
   	background-size: cover;
 	transition: transform 0.2s;
